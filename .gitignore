@@ -41,8 +41,3 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-
-
-#忽略文件
-*.class
-target/
